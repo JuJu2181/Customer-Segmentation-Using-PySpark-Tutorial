@@ -1,0 +1,3 @@
+.sparkenv
+__pycache__
+*.env
